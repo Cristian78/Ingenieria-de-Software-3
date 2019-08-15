@@ -12,3 +12,9 @@ Explicar las versiones LOCAL, BASE y REMOTE.
 Local: Archivos de la rama actual en el repositorio local de la maquina que se esta utilizando
 Remote: Archivos de la rama actual en el repositorio remoto que se esta intentando fusionar en su Local
 Base: Los ancestros comunes de Local y Base
+
+Cuando se produce el conflicto
+![Alt text] (Imagenes/Conlicto)
+
+Cuando lo solucionamos
+![Alt text] (Imagenes/Merge)
