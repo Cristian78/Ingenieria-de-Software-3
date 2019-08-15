@@ -14,7 +14,7 @@ Remote: Archivos de la rama actual en el repositorio remoto que se esta intentan
 Base: Los ancestros comunes de Local y Base
 
 Cuando se produce el conflicto
-![Alt text](Imagenes/Conlicto.jpg)
+![Alt text](Imagenes/Conflicto.jpg)
 
 Cuando lo solucionamos
 ![Alt text](Imagenes/Merge.jpg)
